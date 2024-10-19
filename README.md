@@ -1,4 +1,4 @@
-﻿# Readme.md para o Projeto: Teste técnico UOL/Ingressos.com
+﻿# Projeto: Teste técnico UOL/Ingressos.com
 
 ## Introdução
 Este Readme serve como um guia para usuários e desenvolvedores que interagirem com o aplicativo para fins de avaliação. Ele inclui instruções sobre como executar o projeto, uma análise detalhada da sua arquitetura e explicações das minhas decisões técnicas tomadas durante o processo de desenvolvimento.
