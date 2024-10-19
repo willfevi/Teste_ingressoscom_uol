@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ingressos.com</string>
+    <string name="poster">Poster do Filme</string>
+    <string name="logo">logo</string>
+    <string name="location">localização</string>
+    <string name="search">buscar</string>
+
+    <string name="preorder">Pre Venda</string>
+    <string name="grid">Exibir</string>
+    <string name="cine">Cinemas</string>
+    <string name="share">Compartilhar</string>
+
+    <string name="error_image">imagem de erro</string>
+    <string name="poster_detail">poster do filme</string>
+</resources>

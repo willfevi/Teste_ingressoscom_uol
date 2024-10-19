@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ingressoscom" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/azul_ceu</item>
+        <item name="colorPrimaryVariant">@color/azul_ceu</item>
+        <item name="colorOnPrimary">@color/branco</item>
+
+        <item name="colorSurface">@color/branco</item>
+        <item name="colorOnSurface">@color/preto</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/full_dark_gray</item>
+        <item name="colorSecondary">@color/azul_matte</item>
+        <item name="colorSecondaryVariant">@color/azul_royal</item>
+        <item name="colorOnSecondary">@color/preto</item>
+    </style>
+
+    <style name="Theme.Ingressoscom" parent="Base.Theme.Ingressoscom" />
+</resources>
