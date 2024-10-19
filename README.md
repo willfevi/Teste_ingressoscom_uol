@@ -80,10 +80,8 @@ app/
 
 ### Detalhes da API
 #### Endpoints
-O endpoint usado neste projeto foi o fornecido para o teste:
-GET https://api-content.ingresso.com/v0/events/coming-soon/partnership/desafio
-
-Este endpoint recupera uma lista de filmes que estão prestes a ser lançados.
+O endpoint usado neste projeto foi o fornecido para o teste.
+Este endpoint recupera uma lista de filmes que estão prestes a ser lançados em json.
 - **OBSERVAÇÃO:** Sei que não é uma boa prática deixar a chave API Exposta Hardcode, mas por questões de facilidade de configuração na hora da avaliação, optei por deixar ela dessa forma.
 
 #### Modelo de Dados
